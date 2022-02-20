@@ -75,8 +75,8 @@ impl Contract {
             owner_id,
             NFTContractMetadata {
                 spec: "nft-1.0.0".to_string(),
-                name: "NFT Tutorial Contract".to_string(),
-                symbol: "GOTEAM".to_string(),
+                name: "DDD Marketplace Contract".to_string(),
+                symbol: "DDD".to_string(),
                 icon: None,
                 base_uri: None,
                 reference: None,
@@ -112,3 +112,4 @@ impl Contract {
         this
     }
 }
+
